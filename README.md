@@ -1,5 +1,7 @@
 # Spotify Clone with Next.js, React, Tailwind, Supabase, PostgreSQL, Stripe
 
+![spotify_clone_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/f002144a-bc66-417d-ab3b-3824f3b28560)
+
 ## Description
 
 This project was built using a youtube tutorial by [Code With Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o).
@@ -68,6 +70,15 @@ This project includes the following features:
 
 ## Screenshots
 
+![login_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/5a029a45-68b7-40ee-94cc-6ac263bce6c9)
+
+![add_song_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/658cef1e-47f6-44bc-8fbc-47f7d0179350)
+
+![linked_songs_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/82b41117-ca16-44a1-86f2-5cb56b3c6f1a)
+
+![search_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/242f801b-0192-4187-9b07-f3bb24d4b75f)
+
+![account_settings_screenshot](https://github.com/kt946/spotify-clone-nextjs-yt-cwa/assets/103476893/e87e4965-5e7e-4975-8720-1bdfc66f5947)
 
 ## Technologies Used
 
