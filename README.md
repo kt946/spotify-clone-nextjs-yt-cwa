@@ -6,7 +6,7 @@
 
 This project was built using a youtube tutorial by [Code With Antonio](https://www.youtube.com/watch?v=2aeMRB8LL4o).
 
-This project is a Spotify clone that uses Next.js 13.4, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe. Users can sign up and upload songs to the music platform and subscribe to a premium plan using Stripe. This app also includes user authentication and a responsive user interface.
+Welcome to the Full Stack Spotify Clone! Developed with Next.js 13.4, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe, this project offers a dynamic Spotify-like experience. Users can register, upload songs to Supabase, and access premium plans via Stripe. With secure authentication, responsive design, and an integrated audio player for seamless music streaming, this application encapsulates the core elements of a modern music platform.
 
 ❗❗❗ I do not own the rights to the music used in this project. The music is for demonstration purposes only. In addition, this project is not intended for commercial use.
 
