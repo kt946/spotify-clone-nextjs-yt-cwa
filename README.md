@@ -6,7 +6,7 @@ This project was built using a youtube tutorial by [Code With Antonio](https://w
 
 This project is a Spotify clone that uses Next.js 13.4, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe. Users can sign up and upload songs to the music platform and subscribe to a premium plan using Stripe. This app also includes user authentication and a responsive user interface.
 
-⭐ I do not own the rights to the music used in this project. The music is for demonstration purposes only. In addition, this project is not intended for commercial use.
+❗❗❗ I do not own the rights to the music used in this project. The music is for demonstration purposes only. In addition, this project is not intended for commercial use.
 
 ⭐ Note: The database may become inactive if the app is not used for a while. If this happens, please contact me and I will reactivate the database.
 
